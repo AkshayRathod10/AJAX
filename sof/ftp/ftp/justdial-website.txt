@@ -1,0 +1,14 @@
+1. Bootstrap
+2. Banner
+3. Services.
+4. How we work
+5. Videos
+6. About Us
+7. Gallery
+8. Testimonials Banner Slider
+9. Contact details and Contact form
+10. Google map
+11. Email Id
+12. Whatsapp
+13. Team
+14. Live chat
